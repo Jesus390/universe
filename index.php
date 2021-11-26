@@ -1,6 +1,4 @@
 <?php
-echo "Hello PHP";
-
 /*
 * @name, say_hello
 * @description, print a greeting with your name
